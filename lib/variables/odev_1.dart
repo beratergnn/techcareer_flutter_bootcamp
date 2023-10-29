@@ -1,4 +1,4 @@
-void main() {
+class Odev1 {
   String ilce = 'Pendik';
   String kita = 'Avrupa';
   int faks = 05384561122;
