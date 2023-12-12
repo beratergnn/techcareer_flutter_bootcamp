@@ -18,9 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Application Images
 
-![1](https://github.com/beratergnn/flutter_todo_app/assets/58957696/c5ffdbdc-b210-44a9-bb8d-6b6271d5777c)
-![2](https://github.com/beratergnn/flutter_todo_app/assets/58957696/7c47e235-2a3f-46a5-839c-f6368e945b06)
-![4](https://github.com/beratergnn/flutter_todo_app/assets/58957696/b1818656-f8ca-4a60-8cec-4c8e1df85516)
-![3](https://github.com/beratergnn/flutter_todo_app/assets/58957696/538ecb48-745e-4ad0-81ef-046c723e3e9b)
-![6](https://github.com/beratergnn/flutter_todo_app/assets/58957696/1824a756-41e9-4943-8cd6-e31c52d177a7)
-![5](https://github.com/beratergnn/flutter_todo_app/assets/58957696/1d70725f-aff2-4a56-8168-a7b216cde9a7)
+![Ekran görüntüsü 2023-11-28 001225](https://github.com/beratergnn/techcareer_flutter_bootcamp/assets/58957696/7b973508-d31a-4077-815a-aa9da94d07ed)
+![Ekran görüntüsü 2023-11-28 001237](https://github.com/beratergnn/techcareer_flutter_bootcamp/assets/58957696/20ac72d4-cee9-428e-8001-82ad2c7114e8)
+![Ekran görüntüsü 2023-11-28 001250](https://github.com/beratergnn/techcareer_flutter_bootcamp/assets/58957696/1d3f559c-636b-43ea-b1ee-f16cb036da79)
